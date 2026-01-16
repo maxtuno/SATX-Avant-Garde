@@ -31,7 +31,7 @@ Verificar propiedades de sistemas (por ejemplo, robustez, estabilidad, seguridad
 ## Estado actual
 
 * **Versión de código público:** `SATX 0.4.0`
-* **Versión de especificación:** `SATX Specification` (Privada)
+* **Versión de especificación:** `SATX 0.4.7` (Privada)
 
 Consulte [`VERSIONING.md`](docs/VERSIONING.md) para obtener más información.
 
@@ -53,6 +53,7 @@ Consulte `LICENSE.md` y `COMMERCIAL.md` para obtener más información.
 SATX es creado y mantenido por **Oscar Riveros**.
 
 ---
+
 
 
 

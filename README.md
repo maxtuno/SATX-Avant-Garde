@@ -1,11 +1,11 @@
-
----
+# SATX
 
 SATX es un paquete de software en Python diseñado para modelar, optimizar y tomar decisiones formales en problemas de tipo Wicked (problemas complejos, ambiguos y con múltiples actores) mediante la compilación a lógica de primer orden y resolución con solvers externos. Es una biblioteca que actúa como un compilador de restricciones a forma de Clausula Normal Conjuntiva (CNF), permitiendo la resolución de problemas de satisfacibilidad (SAT), conteo de soluciones (#SAT), optimización de soluciones (Weighted MaxSAT) y modelado de problemas de programación lineal entera (MIP) mediante la exportación de modelos a formatos estándar.
 
 SATX no incluye solvers, sino que exporta el problema en formato DIMACS (para SAT/#SAT), WCNF (para Weighted MaxSAT) o LP/MPS (para MIP), y el usuario debe proporcionar solvers externos compatibles.
 
 ¿Qué es SATX?
+
 SATX es una biblioteca de modelado y resolución formal que permite:
 
 Modelar problemas mediante variables de tipo Unit (enteros bit-vector) y Fixed (punto fijo).
@@ -16,6 +16,7 @@ Analizar resultados: obtener valores asignados, contar soluciones, calcular dist
 SATX está diseñado para problemas de "Wicked" (problemas complejos, ambiguos, con múltiples actores y restricciones), donde la formalización y la verificación son cruciales.
 
 ¿Qué puede hacer SATX?
+
 SATX permite:
 
 Modelar problemas en un lenguaje declarativo.
@@ -53,6 +54,7 @@ Consulte `LICENSE.md` y `COMMERCIAL.md` para obtener más información.
 SATX es creado y mantenido por **Oscar Riveros**.
 
 ---
+
 
 
 

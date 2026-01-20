@@ -28,6 +28,10 @@ Verificar propiedades de sistemas (por ejemplo, robustez, estabilidad, seguridad
 
 [SATX: Modelado y Decisión Formal en Sistemas Wicked - SAT, #SAT, Weighted MaxSAT y MIP](https://www.academia.edu/145768932/SATX_Modelado_y_Decisi%C3%B3n_Formal_en_Sistemas_Wicked_SAT_SAT_Weighted_MaxSAT_y_MIP)
 
+
+[Self-Sustaining Spaceship: Síntesis Óptima de Capacidad y Operación con Balances Cerrados y Compilación Determinista mediante SATX](https://www.academia.edu/146228507/Self_Sustaining_Spaceship_S%C3%ADntesis_%C3%93ptima_de_Capacidad_y_Operaci%C3%B3n_con_Balances_Cerrados_y_Compilaci%C3%B3n_Determinista_mediante_SATX?source=swp_share)
+
+
 ---
 ## Estado actual
 
@@ -54,6 +58,7 @@ Consulte `LICENSE.md` y `COMMERCIAL.md` para obtener más información.
 SATX es creado y mantenido por **Oscar Riveros**.
 
 ---
+
 
 
 
